@@ -1,0 +1,133 @@
+[
+    {
+      "name": "Belle",
+      "traits": [
+        "Intelligent",
+        "Bookish",
+        "Curious",
+        "Independent",
+        "Compassionate",
+        "Brave",
+        "Non-conformist",
+        "Sacrificial"
+      ]
+    },
+    {
+      "name": "Jasmine",
+      "traits": [
+        "Independent",
+        "Headstrong",
+        "Adventurous",
+        "Opinionated",
+        "Outspoken",
+        "Daring",
+        "Kind-hearted",
+        "Rebellious"
+      ]
+    },
+    {
+      "name": "Elsa",
+      "traits": [
+        "Reserved",
+        "Fearful",
+        "Powerful",
+        "Protective",
+        "Caring",
+        "Majestic",
+        "Selfless",
+        "Misunderstood"
+      ]
+    },
+    {
+      "name": "Snow White",
+      "traits": [
+        "Kind",
+        "Gentle",
+        "Optimistic",
+        "Nurturing",
+        "Pure-hearted",
+        "Innocent",
+        "Sweet",
+        "Helpful"
+      ]
+    },
+    {
+      "name": "Cinderella",
+      "traits": [
+        "Kind",
+        "Patient",
+        "Resilient",
+        "Hopeful",
+        "Gracious",
+        "Dutiful",
+        "Dreamer",
+        "Persevering"
+      ]
+    },
+    {
+      "name": "Aurora",
+      "traits": [
+        "Graceful",
+        "Gentle",
+        "Dreamy",
+        "Loves Nature",
+        "Naïve",
+        "Loving",
+        "Innocent",
+        "Romantic"
+      ]
+    },
+    {
+      "name": "Ariel",
+      "traits": [
+        "Curious",
+        "Rebellious",
+        "Adventurous",
+        "Headstrong",
+        "Passionately-driven",
+        "Bold",
+        "Romantic",
+        "Determined"
+      ]
+    },
+    {
+      "name": "Mulan",
+      "traits": [
+        "Brave",
+        "Loyal",
+        "Selfless",
+        "Determined",
+        "Clumsy (at first)",
+        "Resourceful",
+        "Honorable",
+        "Persistent"
+      ]
+    },
+    {
+      "name": "Rapunzel",
+      "traits": [
+        "Curious",
+        "Creative",
+        "Energetic",
+        "Expressive",
+        "Optimistic",
+        "Naiive",
+        "Adventurous",
+        "Determined"
+      ]
+    },
+    {
+      "name": "Merida",
+      "traits": [
+        "Brave",
+        "Headstrong",
+        "Independent",
+        "Skilled Archer",
+        "Defiant",
+        "Free-spirited",
+        "Passionate",
+        "Forceful"
+      ]
+    }
+  ]
+

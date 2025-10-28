@@ -1,0 +1,88 @@
+
+
+.quiz {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  color: #432811;
+  background:url(/assets/fantasy-castle.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: url(https://cur.cursors-4u.net/cursors/cur-2/cur227.cur), auto ;
+  
+}
+
+.progress{
+    font-size:1rem;
+    width:fit-content;
+    color:#432811;
+    text-align: center;
+    
+    margin-bottom:20px;
+}
+
+.option {
+  background: white;
+  color: rgb(249, 95, 121);
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid pink;
+  transition: 0.3s;
+}
+
+.option:hover {
+  background: pink;
+  color: white;
+  
+}
+
+.character{
+    margin:10px;
+    padding:20px;
+    border:2px solid goldenrod;
+    border-radius:15px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-between;
+    width:420px;
+    height:auto;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    background:url("https://img.freepik.com/free-photo/abstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-background-layout-banner-product-presentation_1258-52561.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.character h2{
+    font-size:2rem;
+    margin-bottom:10px;
+    color:#432811;
+}
+.character img{
+    width:200px;
+    height:200px;
+    object-fit:contain;
+    
+    border-radius:20px;
+}
+
+.character p{
+    font-size:1.2rem;
+    color:#432811;
+    text-align:center;
+    
+}
+
+.card{
+  background:white;
+  padding:20px;
+  border-radius:15px;
+  width:500px;
+  height:auto;
+}
