@@ -86,3 +86,11 @@
   width:500px;
   height:auto;
 }
+
+.restart-btn{
+    padding:8px 15px;
+    background:#432811;
+    color:goldenrod;
+    text-decoration:none;
+    font-size:1.1rem;
+}
