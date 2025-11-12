@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import './Quiz.css';
 import Card from './Card.jsx';
 import results from "./Result.json";
-
+import { Link } from "react-router-dom";
 
 const Quiz = () => {
   const questions = [
