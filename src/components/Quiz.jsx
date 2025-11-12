@@ -144,6 +144,7 @@ const [current, setCurrent] = useState(0);
           <h2>{finalPrincess.name}</h2>
           <img src={finalPrincess.image} alt={finalPrincess.name} width="200" />
           <p>{finalPrincess.description}</p>
+          <Link to="/" className="restart-btn">Home page</Link>
         </div>
       )}
     </div>
